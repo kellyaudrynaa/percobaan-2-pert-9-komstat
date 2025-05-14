@@ -3,3 +3,4 @@ xy <- x+y
 a <- rnorm(30)
 hist(a)
 summary(x)
+summary(a)
